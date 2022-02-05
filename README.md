@@ -2,11 +2,11 @@
 
 ---
 
-im a senior geologist at @arup-group within the london rock mechanics team. 
+im a senior geologist at [arup](https://www.arup.com/) within the london rock mechanics team. 
 
 i work on rock mechanics, rock engineering and applied geology projects across the civil engineering, mining, nuclear and defence sectors. i also have on-going research interests in laboratory rock mechanics experiments, Discrete Element Method (DEM) modelling, and the thermo-mechanical loading of rock.
 
-i dont do anything special here, im just trying to make life easier for myself and colleagues, automating simple tasks, improving]numerical modelling workflows and streamlining data processing and visualisation.
+i dont do anything special here, im just trying to make life easier for myself and colleagues, automating simple tasks, improving numerical modelling workflows and streamlining data processing and visualisation.
 
 ---
 
@@ -14,5 +14,5 @@ i dont do anything special here, im just trying to make life easier for myself a
 
 or find my research outputs here:
 
-- google scholar
-- researchgate
+- [google scholar](https://scholar.google.com/citations?user=dLLOkTsAAAAJ&hl=en)
+- [researchgate](https://www.researchgate.net/profile/James-Woodman)
